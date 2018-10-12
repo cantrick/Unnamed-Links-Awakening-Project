@@ -1,0 +1,12 @@
+instance_destroy(oPath);
+instance_destroy(oGrass);
+instance_destroy(oFlower);
+instance_destroy(oGrassLeft);
+instance_destroy(oGrassRight);
+instance_destroy(oGrassTop);
+instance_destroy(oGrassBot);
+instance_destroy(oGrassBotLeft);
+instance_destroy(oGrassBotRight);
+instance_destroy(oGrassTopLeft);
+instance_destroy(oGrassTopRight);
+instance_destroy(oShop);
